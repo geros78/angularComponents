@@ -1,0 +1,47 @@
+.cuerpo{
+    background-color: rgb(223, 229, 235);
+    display: flex;
+    flex-direction: row;  
+}
+
+.imagen img {
+    margin-top: 4rem;
+    width: 80%;
+}
+
+.imagen p {
+    margin: 100px;
+    text-align: justify;
+    font-size: 25px;
+    width: 55%;
+}
+
+.imagen{
+    text-align: center;
+    padding: 20px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    
+    align-self:right;
+    background-color: rgb(116, 134, 151);
+    padding: 20px;
+    text-align: center;
+    justify-content: left;
+    
+  }
+
+  .flex div {
+    margin: 10px;
+  }
+
+.accordion-item button{
+    font-size:30px;
+}
+  
+.card-title{
+    font-size: 30px;
+}
+ 

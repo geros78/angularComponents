@@ -1,0 +1,50 @@
+.cuerpo{
+    background-color: rgb(223, 229, 235);
+    display: flex;
+    flex-direction: row;  
+}
+
+.principal img {
+    margin: 20px;
+    padding-bottom: 20px;
+    width: 60%;
+    border-radius: 2cm;
+}
+
+.imagen p {
+    margin: 40px;
+    text-align: justify;
+    font-size: 18px;
+}
+.imagen h1{
+    font-size: 60px;
+}
+
+.imagen{
+    text-align: center;
+    padding: 20px;
+}
+
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    
+    align-self:right;
+    background-color: rgb(116, 134, 151);
+    padding: 20px;
+    text-align: center;
+    justify-content: left;
+    
+  }
+
+  .flex div {
+    margin: 10px;
+  }
+
+  .card-title{
+    font-size: 30px;
+}
+
+
+  
